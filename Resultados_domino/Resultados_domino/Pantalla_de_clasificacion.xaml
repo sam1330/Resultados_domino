@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Resultados_domino.Pantalla_de_clasificacion"
+             Title="Clasificacion"
+             IconImageSource="domino1.png">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Clasificacion_partida"
+                   TextColor="Green"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
